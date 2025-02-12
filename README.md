@@ -4,10 +4,20 @@ A collection of mini-projects built during classes or as assignments, showcasing
 
 🔹 Included Projects:
 🃏 Card Game – A fun and strategic card-matching game.
+
+
 ✂️ Rock Paper Scissors – Classic game with a computer opponent.
+
+
 🔢 Calculator – A simple yet functional calculator for basic arithmetic.
+
+
 📋 To-Do List – A task management app to keep track of daily goals.
+
+
 🧠 Memory Skill Game – A game to test and improve memory skills.
+
+
 💌 Will You Be My Valentine? – A playful interactive project for special occasions.
 
 
