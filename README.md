@@ -1,4 +1,4 @@
-🎯 Mini Projects - Collection of Fun & Interactive Web Apps
+🎯 Mini Projects Using React- Collection of Fun & Interactive Web Apps
 
 A collection of mini-projects built during classes or as assignments, showcasing creativity and problem-solving skills. Each project is designed to be interactive, engaging, and educational, covering a variety of functionalities.
 
