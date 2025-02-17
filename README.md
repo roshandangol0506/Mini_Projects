@@ -23,6 +23,10 @@ A collection of mini-projects built during classes or as assignments, showcasing
 💌 Will You Be My Valentine? – A playful interactive project for special occasions.
 
 
+🧠 Quiz Game – A game that askes random questions and tracks the score. 
+
+
+🧠 Monkey Type – A game to test and improve typing and tracks socres, word per minute.
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
@@ -65,6 +69,12 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
 
 6. Will you be my Valentine?
 ![image](https://github.com/user-attachments/assets/21b68cc2-b561-4482-b741-15272549c9ff)
+
+7. Quiz Game
+![image](https://github.com/user-attachments/assets/f4858255-c7e0-4b80-bf0d-66177bac7d1b)
+
+8. Monkey Type
+![image](https://github.com/user-attachments/assets/127a0496-52cd-47ce-9aa1-f96eee6908f5)
 
 
 ## Learn More
